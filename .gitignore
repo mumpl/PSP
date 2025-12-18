@@ -1,50 +1,14 @@
-# ВСЕ исполняемые файлы
 *.exe
 *.dll
 *.pdb
 *.obj
-*.ilk
-*.idb
-*.ipdb
-*.iobj
-
-# Кэш Visual Studio
-.vs/
+*.sln
+*.vcxproj*
+*.filters
+*.user
 *.ipch
-*.sdf
-*.opensdf
-*.db
-*.cachefile
-
-# Папки сборки
-[Dd]ebug/
-[Rr]elease/
+.vs/
+Debug/
+Release/
 x64/
 x86/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
-[Oo]utput/
-
-# Архивы
-*.zip
-*.rar
-*.7z
-*.tar.gz
-
-# Временные файлы
-*.tmp
-*.temp
-*~
-Thumbs.db
-.DS_Store
-*.sln
-*.vcxproj*
-*.filters
-*.user
-*.sln
-*.vcxproj*
-*.filters
-*.user
-*.sdf
-*.opensdf
